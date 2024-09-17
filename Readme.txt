@@ -1,9 +1,15 @@
 1) Открыть терминал линукс в этой папке
+Проверить свободны ли порты:
+sudo netstat -pna | grep 80
+sudo netstat -pna | grep 9000
+sudo netstat -pna | grep 3310
+
+Если занят то остановить службу, например sudo service mysql stop
+
 Если закрыты порты:
 sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 sudo iptables -A INPUT -p tcp --dport 9000 -j ACCEPT
 sudo iptables -A INPUT -p tcp --dport 3310 -j ACCEPT
-
 
 2) Ввести команды: 
 
@@ -16,7 +22,7 @@ sudo docker-compose up -d
 sudo docker-compose ps -a (у всех контейнеров должно быть состояние UP)
 
 В браузере ввести:
-http://localhost
+http://localhost (если выводится страничка докера, то http://localhost/index.php)
 
 Для просмотра метрик:
 

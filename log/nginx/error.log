@@ -1,0 +1,279 @@
+2024/09/15 22:22:51 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:22:53 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:22:54 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:22:55 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:22:57 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:22:59 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:23:03 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:23:10 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:23:24 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:23:51 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:24:43 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:25:44 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:26:44 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:27:45 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:07 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:08 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:09 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:10 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:11 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:14 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:17 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:25 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:34:38 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:35:04 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:35:56 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:36:56 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:37:57 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:38:58 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:39:58 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:40:59 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:41:59 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:43:00 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:44:01 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:45:01 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:46:02 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:47:03 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:48:03 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:49:04 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:50:04 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:51:05 [emerg] 1#1: open() "/var/www/my_lemp/log/nginx/access.log" failed (2: No such file or directory)
+2024/09/15 22:52:06 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/15 22:54:50 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/15 22:57:12 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/15 23:01:01 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/15 23:20:44 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/15 23:51:46 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/15 23:52:33 [error] 24#24: *2 "/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/09/15 23:52:33 [error] 25#25: *4 open() "/www/icons/poweredby.png" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /icons/poweredby.png HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/09/15 23:52:33 [error] 21#21: *3 open() "/www/poweredby.png" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /poweredby.png HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/09/15 23:52:33 [error] 26#26: *5 open() "/www/favicon.ico" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/09/15 23:55:41 [error] 23#23: *11 "/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "172.16.1.4"
+2024/09/15 23:55:41 [error] 23#23: *11 open() "/www/favicon.ico" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /favicon.ico HTTP/1.1", host: "172.16.1.4", referrer: "http://172.16.1.4/"
+2024/09/15 23:55:52 [error] 23#23: *11 "/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "172.16.1.4"
+2024/09/16 16:57:29 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 17:06:27 [error] 24#24: *3 open() "/www/www" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /www HTTP/1.1", host: "localhost"
+2024/09/16 17:07:06 [error] 24#24: *3 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 17:07:13 [error] 24#24: *3 open() "/www/index.html" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /index.html HTTP/1.1", host: "localhost"
+2024/09/16 17:07:19 [error] 24#24: *3 open() "/www/www" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /www HTTP/1.1", host: "localhost"
+2024/09/16 17:22:26 [error] 27#27: *5 "/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/09/16 17:22:29 [error] 27#27: *5 "/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/09/16 17:22:50 [error] 27#27: *5 open() "/www/var/www/my_lemp" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www/my_lemp HTTP/1.1", host: "localhost"
+2024/09/16 17:22:56 [error] 27#27: *5 "/www/var/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www/ HTTP/1.1", host: "localhost"
+2024/09/16 17:23:01 [error] 27#27: *5 open() "/www/var" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /var HTTP/1.1", host: "localhost"
+2024/09/16 17:23:16 [error] 27#27: *5 "/www/index.php" is not found (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/09/16 17:23:28 [error] 27#27: *5 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 17:23:33 [error] 27#27: *5 open() "/www/index.html" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /index.html HTTP/1.1", host: "localhost"
+2024/09/16 17:23:44 [error] 27#27: *5 open() "/www/var/www" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www HTTP/1.1", host: "localhost"
+2024/09/16 17:23:55 [error] 27#27: *5 open() "/www/var/www/my_lemp" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www/my_lemp HTTP/1.1", host: "localhost"
+2024/09/16 17:24:02 [error] 27#27: *5 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www/my_lemp/index.php HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 17:24:11 [error] 27#27: *5 open() "/www/var/www/my_lemp/index.html" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www/my_lemp/index.html HTTP/1.1", host: "localhost"
+2024/09/16 17:24:19 [error] 27#27: *5 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET /var/www/my_lemp/index.php HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 17:26:02 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 18:21:30 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 18:21:37 [error] 28#28: *1 directory index of "/var/www/my_lemp/" is forbidden, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/09/16 18:22:49 [error] 31#31: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 18:22:50 [error] 31#31: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 18:22:52 [error] 31#31: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 18:24:21 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 18:25:25 [error] 30#30: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:29:44 [error] 29#29: *3 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:33:58 [error] 32#32: *4 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:33:59 [error] 32#32: *4 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:36:07 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 18:36:19 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:36:34 [error] 29#29: *1 open() "/var/www/my_lemp/d" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /d HTTP/1.1", host: "localhost"
+2024/09/16 18:36:39 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:38:42 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 18:38:55 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:38:56 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:45:59 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 18:46:03 [error] 32#32: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 18:46:04 [error] 32#32: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:00:56 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:00:57 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:00:59 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:00 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:01 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:04 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:08 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:15 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:29 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:01:55 [emerg] 1#1: invalid parameter "172.16.1.4:80" in /etc/nginx/sites-enabled/my_lemp.conf:47
+2024/09/16 19:02:55 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 19:03:34 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:04:51 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 19:05:00 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:05:01 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:05:02 [error] 29#29: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:08:12 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 19:22:33 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 19:22:44 [error] 30#30: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:22:50 [error] 30#30: *1 access forbidden by rule, client: 172.16.1.1, server: my_lemp.com, request: "GET /metrics HTTP/1.1", host: "localhost"
+2024/09/16 19:27:20 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 20:02:08 [error] 34#34: *2 open() "/var/www/my_lemp/favicon.ico" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /favicon.ico HTTP/1.1", host: "172.16.1.4", referrer: "http://172.16.1.4/"
+2024/09/16 22:36:35 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:00:11 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:32:10 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:32:25 [error] 26#26: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "172.16.1.4"
+2024/09/16 23:32:28 [error] 26#26: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "172.16.1.4"
+2024/09/16 23:32:35 [error] 26#26: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "172.16.1.4"
+2024/09/16 23:32:39 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:33:06 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:34:00 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:34:26 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:34:34 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:38:17 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:38:33 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:38:38 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:38:39 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:38:40 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:38:41 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:38:42 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 11" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:49:38 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:49:50 [error] 30#30: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 5" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:50:06 [error] 30#30: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 5" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:50:19 [error] 30#30: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 5" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:50:25 [error] 30#30: *1 open() "/var/www/my_lemp/indew" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /indew HTTP/1.1", host: "localhost"
+2024/09/16 23:50:32 [error] 30#30: *1 open() "/var/www/my_lemp/index.html" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /index.html HTTP/1.1", host: "localhost"
+2024/09/16 23:50:41 [error] 30#30: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 5" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/16 23:52:21 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/16 23:52:42 [error] 23#23: *1 open() "/var/www/my_lemp/favicon.ico" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/09/17 00:00:58 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:02:34 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:03:02 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:07:25 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:08:23 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:09:29 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:12:08 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:13:13 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:14:43 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:16:48 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:16:51 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:16:52 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:19:26 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:19:29 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:19:30 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:21:07 [error] 25#25: *4 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:21:08 [error] 25#25: *4 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:27:54 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:27:58 [error] 22#22: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/my_lemp/index.php on line 49" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:28:00 [error] 22#22: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/my_lemp/index.php on line 49" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:28:27 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:28:33 [error] 24#24: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/my_lemp/index.php on line 49" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:30:01 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:40:48 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:42:02 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:42:06 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 17" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:42:08 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 17" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:42:15 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 17" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:42:16 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/my_lemp/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 17" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:45:19 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:45:23 [error] 25#25: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class "MySQLi" not found in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:45:24 [error] 25#25: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class "MySQLi" not found in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:47:00 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:47:03 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:47:05 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /var/www/my_lemp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/my_lemp/index.php on line 16" while reading upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 00:52:08 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:53:19 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 00:56:02 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 01:02:43 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 01:02:47 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "print" in /var/www/my_lemp/index.php on line 24" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 01:02:50 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "print" in /var/www/my_lemp/index.php on line 24" while reading response header from upstream, client: 172.16.1.1, server: my_lemp.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.16.1.5:9010", host: "localhost"
+2024/09/17 01:03:56 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 01:04:11 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 01:06:09 [warn] 1#1: 16384 worker_connections exceed open file resource limit: 1024
+2024/09/17 01:06:33 [error] 24#24: *10 open() "/var/www/my_lemp/favicon.ico" failed (2: No such file or directory), client: 172.16.1.1, server: my_lemp.com, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
